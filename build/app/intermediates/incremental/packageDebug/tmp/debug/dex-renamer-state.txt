@@ -1,0 +1,4 @@
+#Sun Sep 05 05:35:28 GMT 2021
+base.0=D\:\\Codes\\Angela Wu\\Flutter(Dart)\\Projects\\randoms\\weather_app_clima\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
